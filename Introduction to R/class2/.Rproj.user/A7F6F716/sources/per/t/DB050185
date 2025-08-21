@@ -1,9 +1,9 @@
 {
     "id": "DB050185",
-    "path": "C:/Users/User/Desktop/Introduction to R/class2/introduction to R.Rmd",
+    "path": "~/GitHub/Introduction-to-R-Celestine/Introduction to R/class2/introduction to R.Rmd",
     "project_path": "introduction to R.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1692215953",
     "contents": "",
     "dirty": false,
     "created": 1755314346483.0,
@@ -20,11 +20,11 @@
         "docOutlineVisible": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1755313326,
+    "lastKnownWriteTime": 1755770512,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1755313326,
+    "last_content_update": 1755770512,
     "read_only": false,
     "read_only_alternatives": []
 }
