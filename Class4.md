@@ -4,7 +4,7 @@ installing and using R packages
 
 \- for installation, you need internet
 
- - install a package once
+-   install a package once
 
 ```{r}
 #install.packages("tidyverse")
@@ -70,4 +70,15 @@ tail(d1)
 
 ```{r}
 library(tidyverse)
+
+```
+
+#alternatively use
+
+```{r}
+install.packages("tidyverse")
+```
+
+```{r}
+glimpse(d1)
 ```
