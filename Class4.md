@@ -82,3 +82,18 @@ install.packages("tidyverse")
 ```{r}
 glimpse(d1)
 ```
+
+```{r}
+#dimension
+dim(d1)
+```
+
+```{r}
+#data types
+typeof(d1$minutes_to_nearest_facility)
+```
+
+```{r}
+#attributes
+at
+```
